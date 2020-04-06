@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd"
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <sitemap>
+        <loc>https://cjbrooks12.github.io/strikt/sitemap-assets.xml</loc>
+        <lastmod>2020-04-06</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://cjbrooks12.github.io/strikt/sitemap-external.xml</loc>
+        <lastmod>2020-04-06</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://cjbrooks12.github.io/strikt/sitemap-changelog.xml</loc>
+        <lastmod>2020-04-06</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://cjbrooks12.github.io/strikt/sitemap-forms.xml</loc>
+        <lastmod>2020-04-06</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://cjbrooks12.github.io/strikt/sitemap-home.xml</loc>
+        <lastmod>2020-04-06</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://cjbrooks12.github.io/strikt/sitemap-kotlindoc.xml</loc>
+        <lastmod>2020-04-06</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://cjbrooks12.github.io/strikt/sitemap-pages.xml</loc>
+        <lastmod>2020-04-06</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://cjbrooks12.github.io/strikt/sitemap-snippets.xml</loc>
+        <lastmod>2020-04-06</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://cjbrooks12.github.io/strikt/sitemap-wiki.xml</loc>
+        <lastmod>2020-04-06</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://cjbrooks12.github.io/strikt/sitemap-sitemap.xml</loc>
+        <lastmod>2020-04-06</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://cjbrooks12.github.io/strikt/sitemap-indices.xml</loc>
+        <lastmod>2020-04-06</lastmod>
+    </sitemap>
+    
+</sitemapindex>
